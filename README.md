@@ -1,6 +1,6 @@
 # electron-demo
 
-> electron demo
+> 这是一个采用electron-vue脚手架编写的electron demo，博客地址：https://blog.csdn.net/tornyLin/article/details/81609258
 
 #### Build Setup
 
